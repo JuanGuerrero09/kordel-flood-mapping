@@ -1,0 +1,235 @@
+{
+  "data": [
+    {
+      "ec5_uuid": "0f5a513c-5141-4a1d-a262-cdb31cf8b8b3",
+      "created_at": "2026-05-08T09:12:25.000Z",
+      "uploaded_at": "2026-05-08T09:12:31.000Z",
+      "title": "0f5a513c-5141-4a1d-a262-cdb31cf8b8b3",
+      "date": "08/05/2026",
+      "time": "11:11",
+      "wasLocationCorrect": "Yes",
+      "location": {
+        "latitude": 49.840885,
+        "longitude": 6.635895,
+        "accuracy": 6,
+        "UTM_Northing": 5523620,
+        "UTM_Easting": 330021,
+        "UTM_Zone": "32U"
+      },
+      "severity": "",
+      "hazardPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=0f5a513c-5141-4a1d-a262-cdb31cf8b8b3_1778231510.jpg",
+      "hasHighWaterMark": "Yes",
+      "waterHeightCm": null,
+      "waterMarkPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=0f5a513c-5141-4a1d-a262-cdb31cf8b8b3_1778231534.jpg",
+      "isWaterbodyNearby": "Yes"
+    },
+    {
+      "ec5_uuid": "aac3e405-6d6e-431a-b820-73491c990210",
+      "created_at": "2026-05-07T08:31:59.000Z",
+      "uploaded_at": "2026-05-07T13:43:03.000Z",
+      "title": "aac3e405-6d6e-431a-b820-73491c990210",
+      "date": "15/07/2021",
+      "time": "",
+      "wasLocationCorrect": "Yes",
+      "location": {
+        "latitude": 49.840468,
+        "longitude": 6.634247,
+        "accuracy": 7,
+        "UTM_Northing": 5523577,
+        "UTM_Easting": 329901,
+        "UTM_Zone": "32U"
+      },
+      "severity": "Very High",
+      "hazardPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=aac3e405-6d6e-431a-b820-73491c990210_1778142662.jpg",
+      "hasHighWaterMark": "Yes",
+      "waterHeightCm": 170,
+      "waterMarkPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=aac3e405-6d6e-431a-b820-73491c990210_1778142705.jpg",
+      "isWaterbodyNearby": "No"
+    },
+    {
+      "ec5_uuid": "4a21f01f-003f-4094-ba96-8237b5991dfd",
+      "created_at": "2026-05-07T08:20:29.000Z",
+      "uploaded_at": "2026-05-07T13:42:58.000Z",
+      "title": "4a21f01f-003f-4094-ba96-8237b5991dfd",
+      "date": "01/01/1995",
+      "time": "",
+      "wasLocationCorrect": "Yes",
+      "location": {
+        "latitude": 49.839779,
+        "longitude": 6.633673,
+        "accuracy": 5,
+        "UTM_Northing": 5523502,
+        "UTM_Easting": 329857,
+        "UTM_Zone": "32U"
+      },
+      "severity": "Very High",
+      "hazardPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=4a21f01f-003f-4094-ba96-8237b5991dfd_1778141591.jpg",
+      "hasHighWaterMark": "Yes",
+      "waterHeightCm": 130,
+      "waterMarkPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=4a21f01f-003f-4094-ba96-8237b5991dfd_1778142017.jpg",
+      "isWaterbodyNearby": "No"
+    },
+    {
+      "ec5_uuid": "c8459aaa-2a67-4b7d-92a6-9763dce35383",
+      "created_at": "2026-05-06T10:10:53.000Z",
+      "uploaded_at": "2026-05-07T12:23:49.000Z",
+      "title": "c8459aaa-2a67-4b7d-92a6-9763dce35383",
+      "date": "06/05/2026",
+      "time": "12:13",
+      "wasLocationCorrect": "Yes",
+      "location": {
+        "latitude": 49.834379,
+        "longitude": 6.643231,
+        "accuracy": 5,
+        "UTM_Northing": 5522880,
+        "UTM_Easting": 330525,
+        "UTM_Zone": "32U"
+      },
+      "severity": "",
+      "hazardPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=c8459aaa-2a67-4b7d-92a6-9763dce35383_1778062417.jpg",
+      "hasHighWaterMark": "Yes",
+      "waterHeightCm": 0.53,
+      "waterMarkPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=c8459aaa-2a67-4b7d-92a6-9763dce35383_1778062469.jpg",
+      "isWaterbodyNearby": ""
+    },
+    {
+      "ec5_uuid": "faeefc62-4021-4b6c-ac4d-1197867994cd",
+      "created_at": "2026-05-06T10:53:22.000Z",
+      "uploaded_at": "2026-05-07T12:23:45.000Z",
+      "title": "faeefc62-4021-4b6c-ac4d-1197867994cd",
+      "date": "06/05/2026",
+      "time": "12:49",
+      "wasLocationCorrect": "Yes",
+      "location": {
+        "latitude": 49.838145,
+        "longitude": 6.634075,
+        "accuracy": 8,
+        "UTM_Northing": 5523320,
+        "UTM_Easting": 329880,
+        "UTM_Zone": "32U"
+      },
+      "severity": "",
+      "hazardPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=faeefc62-4021-4b6c-ac4d-1197867994cd_1778064710.jpg",
+      "hasHighWaterMark": "Yes",
+      "waterHeightCm": 1.12,
+      "waterMarkPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=faeefc62-4021-4b6c-ac4d-1197867994cd_1778064751.jpg",
+      "isWaterbodyNearby": ""
+    },
+    {
+      "ec5_uuid": "41943f23-0c7f-4e85-9428-2d8014a0abd8",
+      "created_at": "2026-05-06T11:00:45.000Z",
+      "uploaded_at": "2026-05-07T12:23:41.000Z",
+      "title": "41943f23-0c7f-4e85-9428-2d8014a0abd8",
+      "date": "06/05/2026",
+      "time": "12:55",
+      "wasLocationCorrect": "Yes",
+      "location": {
+        "latitude": 49.839628,
+        "longitude": 6.633299,
+        "accuracy": 2,
+        "UTM_Northing": 5523486,
+        "UTM_Easting": 329830,
+        "UTM_Zone": "32U"
+      },
+      "severity": "",
+      "hazardPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=41943f23-0c7f-4e85-9428-2d8014a0abd8_1778065022.jpg",
+      "hasHighWaterMark": "Yes",
+      "waterHeightCm": null,
+      "waterMarkPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=41943f23-0c7f-4e85-9428-2d8014a0abd8_1778065047.jpg",
+      "isWaterbodyNearby": ""
+    },
+    {
+      "ec5_uuid": "c3fd49dc-255d-4a30-b464-660a189d94f2",
+      "created_at": "2026-05-07T09:24:38.000Z",
+      "uploaded_at": "2026-05-07T12:23:36.000Z",
+      "title": "c3fd49dc-255d-4a30-b464-660a189d94f2",
+      "date": "07/05/2026",
+      "time": "11:22",
+      "wasLocationCorrect": "Yes",
+      "location": {
+        "latitude": 49.836357,
+        "longitude": 6.637474,
+        "accuracy": 5,
+        "UTM_Northing": 5523113,
+        "UTM_Easting": 330118,
+        "UTM_Zone": "32U"
+      },
+      "severity": "High",
+      "hazardPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=c3fd49dc-255d-4a30-b464-660a189d94f2_1778145859.jpg",
+      "hasHighWaterMark": "Yes",
+      "waterHeightCm": 1.5,
+      "waterMarkPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=c3fd49dc-255d-4a30-b464-660a189d94f2_1778145802.jpg",
+      "isWaterbodyNearby": "Yes"
+    },
+    {
+      "ec5_uuid": "385bfac0-081a-4993-99c2-30cc71b6e23b",
+      "created_at": "2026-05-07T09:32:03.000Z",
+      "uploaded_at": "2026-05-07T12:23:32.000Z",
+      "title": "385bfac0-081a-4993-99c2-30cc71b6e23b",
+      "date": "07/05/2026",
+      "time": "11:30",
+      "wasLocationCorrect": "Yes",
+      "location": {
+        "latitude": 49.835943,
+        "longitude": 6.63939,
+        "accuracy": 2,
+        "UTM_Northing": 5523063,
+        "UTM_Easting": 330255,
+        "UTM_Zone": "32U"
+      },
+      "severity": "High",
+      "hazardPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=385bfac0-081a-4993-99c2-30cc71b6e23b_1778146264.jpg",
+      "hasHighWaterMark": "Yes",
+      "waterHeightCm": 1.98,
+      "waterMarkPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=385bfac0-081a-4993-99c2-30cc71b6e23b_1778146314.jpg",
+      "isWaterbodyNearby": "Yes"
+    },
+    {
+      "ec5_uuid": "ef3b7444-6881-450a-9cdb-da4a0af40b5f",
+      "created_at": "2026-05-07T10:12:34.000Z",
+      "uploaded_at": "2026-05-07T12:23:27.000Z",
+      "title": "ef3b7444-6881-450a-9cdb-da4a0af40b5f",
+      "date": "07/05/2026",
+      "time": "12:11",
+      "wasLocationCorrect": "Yes",
+      "location": {
+        "latitude": 49.836115,
+        "longitude": 6.638926,
+        "accuracy": 7,
+        "UTM_Northing": 5523083,
+        "UTM_Easting": 330222,
+        "UTM_Zone": "32U"
+      },
+      "severity": "High",
+      "hazardPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=ef3b7444-6881-450a-9cdb-da4a0af40b5f_1778148737.jpg",
+      "hasHighWaterMark": "Yes",
+      "waterHeightCm": 1.87,
+      "waterMarkPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=ef3b7444-6881-450a-9cdb-da4a0af40b5f_1778148709.jpg",
+      "isWaterbodyNearby": "Yes"
+    },
+    {
+      "ec5_uuid": "3cecc829-a39c-489f-9cff-7b55645d2c9a",
+      "created_at": "2026-05-07T10:21:02.000Z",
+      "uploaded_at": "2026-05-07T12:23:23.000Z",
+      "title": "3cecc829-a39c-489f-9cff-7b55645d2c9a",
+      "date": "07/05/2026",
+      "time": "12:17",
+      "wasLocationCorrect": "Yes",
+      "location": {
+        "latitude": 49.837727,
+        "longitude": 6.635876,
+        "accuracy": 6,
+        "UTM_Northing": 5523269,
+        "UTM_Easting": 330008,
+        "UTM_Zone": "32U"
+      },
+      "severity": "Medium",
+      "hazardPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=3cecc829-a39c-489f-9cff-7b55645d2c9a_1778149219.jpg",
+      "hasHighWaterMark": "Yes",
+      "waterHeightCm": 0.92,
+      "waterMarkPhotoUrl": "https://five.epicollect.net/api/media/qualitative-hazard-assessment?type=photo&format=entry_original&name=3cecc829-a39c-489f-9cff-7b55645d2c9a_1778149183.jpg",
+      "isWaterbodyNearby": "Yes"
+    }
+  ]
+}
+

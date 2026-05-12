@@ -1,0 +1,297 @@
+{
+  "data": [
+    {
+      "ec5_uuid": "cc65859b-3720-4e4d-a6f0-e75f6afe9b38",
+      "created_at": "2026-05-06T08:25:50.000Z",
+      "uploaded_at": "2026-05-07T15:54:21.000Z",
+      "assetType": "Manhole",
+      "location": {
+        "latitude": 49.838857,
+        "longitude": 6.633868,
+        "accuracy": 8.0,
+        "UTM_Northing": 5523399,
+        "UTM_Easting": 329868,
+        "UTM_Zone": "32U"
+      },
+      "material": "Concrete",
+      "internalDimensionMm": 145,
+      "visibleDefects": false,
+      "urbanLandUse": "Residential",
+      "photoUrl": "https://five.epicollect.net/api/media/surveyfieldtrip?type=photo&format=entry_original&name=cc65859b-3720-4e4d-a6f0-e75f6afe9b38_1778055947.jpg"
+    },
+    {
+      "ec5_uuid": "2903ba8f-ebae-4a33-ae8e-1900502703b0",
+      "created_at": "2026-05-06T08:27:43.000Z",
+      "uploaded_at": "2026-05-07T15:54:17.000Z",
+      "assetType": "Manhole",
+      "location": {
+        "latitude": 49.838949,
+        "longitude": 6.634005,
+        "accuracy": 4.0,
+        "UTM_Northing": 5523409,
+        "UTM_Easting": 329878,
+        "UTM_Zone": "32U"
+      },
+      "material": "Concrete",
+      "internalDimensionMm": 80,
+      "urbanLandUse": "Industrial",
+      "photoUrl": "https://five.epicollect.net/api/media/surveyfieldtrip?type=photo&format=entry_original&name=2903ba8f-ebae-4a33-ae8e-1900502703b0_1778056050.jpg"
+    },
+    {
+      "ec5_uuid": "76517d43-6242-4d15-85bd-228d26db8c3f",
+      "created_at": "2026-05-06T08:41:03.000Z",
+      "uploaded_at": "2026-05-07T15:54:12.000Z",
+      "assetType": "Pipe",
+      "location": {
+        "latitude": 49.839042,
+        "longitude": 6.634109,
+        "accuracy": 4.0,
+        "UTM_Northing": 5523419,
+        "UTM_Easting": 329886,
+        "UTM_Zone": "32U"
+      },
+      "material": "Concrete",
+      "internalDimensionMm": 70,
+      "flowDirection": "North",
+      "visibleDefects": false,
+      "photoUrl": "https://five.epicollect.net/api/media/surveyfieldtrip?type=photo&format=entry_original&name=76517d43-6242-4d15-85bd-228d26db8c3f_1778056860.jpg"
+    },
+    {
+      "ec5_uuid": "f203ca30-3c9d-44a4-a5da-1e5d449d982c",
+      "created_at": "2026-05-06T08:44:45.000Z",
+      "uploaded_at": "2026-05-07T15:54:07.000Z",
+      "assetType": "Pipe",
+      "location": {
+        "latitude": 49.838949,
+        "longitude": 6.634275,
+        "accuracy": 4.0,
+        "UTM_Northing": 5523409,
+        "UTM_Easting": 329897,
+        "UTM_Zone": "32U"
+      },
+      "material": "Concrete",
+      "internalDimensionMm": 70,
+      "photoUrl": "https://five.epicollect.net/api/media/surveyfieldtrip?type=photo&format=entry_original&name=f203ca30-3c9d-44a4-a5da-1e5d449d982c_1778057080.jpg"
+    },
+    {
+      "ec5_uuid": "d25b9ea1-8311-4d84-8186-41ae29943ef2",
+      "created_at": "2026-05-06T08:46:36.000Z",
+      "uploaded_at": "2026-05-07T15:54:03.000Z",
+      "assetType": "Pipe",
+      "location": {
+        "latitude": 49.838897,
+        "longitude": 6.634185,
+        "accuracy": 4.0,
+        "UTM_Northing": 5523403,
+        "UTM_Easting": 329891,
+        "UTM_Zone": "32U"
+      },
+      "material": "Metal",
+      "internalDimensionMm": 60,
+      "photoUrl": "https://five.epicollect.net/api/media/surveyfieldtrip?type=photo&format=entry_original&name=d25b9ea1-8311-4d84-8186-41ae29943ef2_1778057193.jpg"
+    },
+    {
+      "ec5_uuid": "fabf76a6-9c86-4aea-8199-2a86d8f485b4",
+      "created_at": "2026-05-06T08:50:10.000Z",
+      "uploaded_at": "2026-05-07T15:53:58.000Z",
+      "assetType": "Pipe",
+      "location": {
+        "latitude": 49.838897,
+        "longitude": 6.634195,
+        "accuracy": 4.0,
+        "UTM_Northing": 5523403,
+        "UTM_Easting": 329891,
+        "UTM_Zone": "32U"
+      },
+      "material": "Metal",
+      "internalDimensionMm": 40,
+      "photoUrl": "https://five.epicollect.net/api/media/surveyfieldtrip?type=photo&format=entry_original&name=fabf76a6-9c86-4aea-8199-2a86d8f485b4_1778057408.jpg"
+    },
+    {
+      "ec5_uuid": "bc180b94-9c8a-4085-b3b7-5cf3a7d65f96",
+      "created_at": "2026-05-06T08:55:44.000Z",
+      "uploaded_at": "2026-05-07T15:53:53.000Z",
+      "assetType": "Pump",
+      "location": {
+        "latitude": 49.838841,
+        "longitude": 6.633983,
+        "accuracy": 4.0,
+        "UTM_Northing": 5523397,
+        "UTM_Easting": 329876,
+        "UTM_Zone": "32U"
+      },
+      "material": "Metal",
+      "notes": "Metal pump",
+      "photoUrl": "https://five.epicollect.net/api/media/surveyfieldtrip?type=photo&format=entry_original&name=bc180b94-9c8a-4085-b3b7-5cf3a7d65f96_1778057740.jpg"
+    },
+    {
+      "ec5_uuid": "0daa8992-3a37-40f1-9d65-4cbe32c91d6d",
+      "created_at": "2026-05-06T09:02:26.000Z",
+      "uploaded_at": "2026-05-07T15:53:49.000Z",
+      "assetType": "Retention Basin",
+      "location": {
+        "latitude": 49.838832,
+        "longitude": 6.633873,
+        "accuracy": 4.0,
+        "UTM_Northing": 5523396,
+        "UTM_Easting": 329868,
+        "UTM_Zone": "32U"
+      },
+      "material": "Concrete",
+      "internalDimensionMm": 200,
+      "notes": "200 cubic meter, waste water basin with mesh",
+      "photoUrl": "https://five.epicollect.net/api/media/surveyfieldtrip?type=photo&format=entry_original&name=0daa8992-3a37-40f1-9d65-4cbe32c91d6d_1778058144.jpg"
+    },
+    {
+      "ec5_uuid": "7ed6bfe1-fece-4190-8e25-5f8b0d9a7e49",
+      "created_at": "2026-05-06T09:10:10.000Z",
+      "uploaded_at": "2026-05-07T15:53:44.000Z",
+      "assetType": "Pump",
+      "location": {
+        "latitude": 49.838725,
+        "longitude": 6.633537,
+        "accuracy": 5.0,
+        "UTM_Northing": 5523385,
+        "UTM_Easting": 329843,
+        "UTM_Zone": "32U"
+      },
+      "material": "Metal",
+      "notes": "Diesel generator",
+      "photoUrl": "https://five.epicollect.net/api/media/surveyfieldtrip?type=photo&format=entry_original&name=7ed6bfe1-fece-4190-8e25-5f8b0d9a7e49_1778058607.jpg"
+    },
+    {
+      "ec5_uuid": "8b92ac76-9efc-4322-aa65-138f0179826f",
+      "created_at": "2026-05-06T09:20:58.000Z",
+      "uploaded_at": "2026-05-07T15:53:39.000Z",
+      "assetType": "Flood Protection",
+      "location": {
+        "latitude": 49.838724,
+        "longitude": 6.633588,
+        "accuracy": 4.0,
+        "UTM_Northing": 5523385,
+        "UTM_Easting": 329847,
+        "UTM_Zone": "32U"
+      },
+      "material": "Metal",
+      "visibleDefects": true,
+      "notes": "Mobile barrier"
+    },
+    {
+      "ec5_uuid": "60cb6546-58e6-4ca8-9947-598b0db01433",
+      "created_at": "2026-05-06T09:56:05.000Z",
+      "uploaded_at": "2026-05-07T15:53:34.000Z",
+      "assetType": "Flood Protection",
+      "location": {
+        "latitude": 49.834091,
+        "longitude": 6.642491,
+        "accuracy": 10.0,
+        "UTM_Northing": 5522850,
+        "UTM_Easting": 330471,
+        "UTM_Zone": "32U"
+      },
+      "material": "Other",
+      "notes": "Sandbag location",
+      "photoUrl": "https://five.epicollect.net/api/media/surveyfieldtrip?type=photo&format=entry_original&name=60cb6546-58e6-4ca8-9947-598b0db01433_1778061363.jpg"
+    },
+    {
+      "ec5_uuid": "00725939-fce2-460a-8154-55c97960ec34",
+      "created_at": "2026-05-06T10:09:23.000Z",
+      "uploaded_at": "2026-05-07T15:53:30.000Z",
+      "assetType": "Treatment Plant",
+      "location": {
+        "latitude": 49.834507,
+        "longitude": 6.643122,
+        "accuracy": 4.0,
+        "UTM_Northing": 5522895,
+        "UTM_Easting": 330518,
+        "UTM_Zone": "32U"
+      },
+      "notes": "Wastewater treatment plant, capacity 850 PE, flow 60 l/s, full biological and chemical treatment",
+      "photoUrl": "https://five.epicollect.net/api/media/surveyfieldtrip?type=photo&format=entry_original&name=00725939-fce2-460a-8154-55c97960ec34_1778062160.jpg"
+    },
+    {
+      "ec5_uuid": "df6cd6be-f688-4f27-a06f-6e2d19ff433c",
+      "created_at": "2026-05-06T12:23:52.000Z",
+      "uploaded_at": "2026-05-07T15:53:25.000Z",
+      "assetType": "Flood Protection",
+      "location": {
+        "latitude": 49.838946,
+        "longitude": 6.633035,
+        "accuracy": 5.0,
+        "UTM_Northing": 5523411,
+        "UTM_Easting": 329808,
+        "UTM_Zone": "32U"
+      },
+      "notes": "Mobile barrier bolt anchors",
+      "photoUrl": "https://five.epicollect.net/api/media/surveyfieldtrip?type=photo&format=entry_original&name=df6cd6be-f688-4f27-a06f-6e2d19ff433c_1778070225.jpg"
+    },
+    {
+      "ec5_uuid": "5a353ee4-2851-49fe-9719-a21e0932e976",
+      "created_at": "2026-05-06T12:29:34.000Z",
+      "uploaded_at": "2026-05-07T15:53:21.000Z",
+      "assetType": "Open Canal",
+      "location": {
+        "latitude": 49.839007,
+        "longitude": 6.631959,
+        "accuracy": 6.0,
+        "UTM_Northing": 5523420,
+        "UTM_Easting": 329731,
+        "UTM_Zone": "32U"
+      },
+      "material": "Concrete",
+      "photoUrl": "https://five.epicollect.net/api/media/surveyfieldtrip?type=photo&format=entry_original&name=5a353ee4-2851-49fe-9719-a21e0932e976_1778070564.jpg"
+    },
+    {
+      "ec5_uuid": "4276591b-8a98-4218-8a2f-cdc279ecb06d",
+      "created_at": "2026-05-06T12:47:46.000Z",
+      "uploaded_at": "2026-05-07T15:53:16.000Z",
+      "assetType": "Pipe",
+      "location": {
+        "latitude": 49.836722,
+        "longitude": 6.632586,
+        "accuracy": 14.0,
+        "UTM_Northing": 5523165,
+        "UTM_Easting": 329768,
+        "UTM_Zone": "32U"
+      },
+      "material": "Concrete",
+      "internalDimensionMm": 160,
+      "photoUrl": "https://five.epicollect.net/api/media/surveyfieldtrip?type=photo&format=entry_original&name=4276591b-8a98-4218-8a2f-cdc279ecb06d_1778071663.jpg"
+    },
+    {
+      "ec5_uuid": "12a5e659-4a43-4376-b3ca-1e85e0a380c3",
+      "created_at": "2026-05-07T08:27:35.000Z",
+      "uploaded_at": "2026-05-07T15:53:11.000Z",
+      "assetType": "Pump Station",
+      "location": {
+        "latitude": 49.844281,
+        "longitude": 6.639198,
+        "accuracy": 7.0,
+        "UTM_Northing": 5523990,
+        "UTM_Easting": 330270,
+        "UTM_Zone": "32U"
+      },
+      "material": "Metal",
+      "urbanLandUse": "Residential",
+      "notes": "Serves 70 houses upstream. Max flow 70,000 l/s, avg 10,000 l/s. Min pressure 1.5 bar, booster pump required.",
+      "photoUrl": "https://five.epicollect.net/api/media/surveyfieldtrip?type=photo&format=entry_original&name=12a5e659-4a43-4376-b3ca-1e85e0a380c3_1778142426.jpg"
+    },
+    {
+      "ec5_uuid": "113bcd36-f352-4927-af97-e18c496c46e5",
+      "created_at": "2026-05-06T12:41:47.000Z",
+      "uploaded_at": "2026-05-06T12:42:02.000Z",
+      "assetType": "Outlet / Inlet",
+      "location": {
+        "latitude": 49.838944,
+        "longitude": 6.632607,
+        "accuracy": 5.0,
+        "UTM_Northing": 5523412,
+        "UTM_Easting": 329777,
+        "UTM_Zone": "32U"
+      },
+      "flowDirection": "South",
+      "notes": "Combined system",
+      "photoUrl": "https://five.epicollect.net/api/media/surveyfieldtrip?type=photo&format=entry_original&name=113bcd36-f352-4927-af97-e18c496c46e5_1778071300.jpg"
+    }
+  ]
+}
