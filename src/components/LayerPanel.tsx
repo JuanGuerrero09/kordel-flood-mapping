@@ -1,4 +1,4 @@
-import { LAYER_CONFIG, DRAINAGE_ASSET_ICONS } from "../config/mapConfig";
+import { LAYER_CONFIG } from "../config/mapConfig";
 
 interface LayerPanelProps {
   visibleLayers: Record<string, boolean>;
@@ -14,9 +14,9 @@ export function LayerPanel({
   visibleLayers,
   onToggle,
   counts,
-  visibleAssetTypes,
-  onToggleAssetType,
-  assetTypeCounts,
+  // visibleAssetTypes,
+  // onToggleAssetType,
+  // assetTypeCounts,
   isOpen,
 }: LayerPanelProps) {
   return (
